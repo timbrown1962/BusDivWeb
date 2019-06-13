@@ -9,7 +9,7 @@
 <body>
     <form id="form1" runat="server">
         <div>
-            This is the password change page
+            This is an updated password change page
         </div>
     </form>
 </body>
